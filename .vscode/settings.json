@@ -1,5 +1,3 @@
-"python.pythonPath": "",
-"window.zoomLevel": 0,
 "python.languageServer": "Pylance",
 "files.associations": {
     "*.html": "django-html",
